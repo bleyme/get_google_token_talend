@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_rgkMwA16EeiXB8Vih4Y2Uw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_rg0EYA16EeiXB8Vih4Y2Uw" comment="" name="client_id" prompt="client_id?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0EYQ16EeiXB8Vih4Y2Uw" comment="" name="client_secret" prompt="client_secret?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0rcA16EeiXB8Vih4Y2Uw" comment="" name="scope" prompt="scope?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0rcQ16EeiXB8Vih4Y2Uw" comment="" name="redirect_uri" prompt="redirect_uri?" promptNeeded="false" type="id_String" value="&quot;urn:ietf:wg:oauth:2.0:oob&quot;"/>
+  <contextParameter xmi:id="_rg0rcg16EeiXB8Vih4Y2Uw" comment="" name="refresh_token" prompt="refresh_token?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0rcw16EeiXB8Vih4Y2Uw" comment="" name="access_token" prompt="access_token?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0rdA16EeiXB8Vih4Y2Uw" comment="" name="code" prompt="code?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rg0rdQ16EeiXB8Vih4Y2Uw" comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

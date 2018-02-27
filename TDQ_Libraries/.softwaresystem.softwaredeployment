@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:softwaredeployment="http://www.talend.org/cwm/foundation/softwaredeployment/2010">
+  <softwaredeployment:TdSoftwareSystem xmi:id="_XrbTUGtvEeWytumYKcZGDQ" name="MySQL" subtype="MySQL" version="5.1.49-3"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_Q1coEGtxEeWytumYKcZGDQ" name="MySQL" subtype="MySQL" version="5.6.21-log"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_DJ6X0GwDEeWqDsG3aSGO4Q" name="Microsoft SQL Server" subtype="Microsoft SQL Server" version="10.50.2500"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_kveeQHJbEeWWZ8ypiLYeeg" name="MySQL" subtype="MySQL" version="5.1.63-0+squeeze1"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_FzU74HJrEeWWZ8ypiLYeeg" name="Microsoft SQL Server" subtype="Microsoft SQL Server" version="09.00.3042"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_A6YZAHiXEeWUHf4jIBjozg" name="MySQL" subtype="MySQL" version="5.6.24"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_u29xQMmzEeWDusY2vCDGpA" name="MySQL" subtype="MySQL" version="5.6.21"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_t1IokL4eEeaSCpz7GcOTLg" name="MySQL" subtype="MySQL" version="5.5.52-0+deb8u1"/>
+  <softwaredeployment:TdSoftwareSystem xmi:id="_XXNFkDo2Eee-2rNPrMj34A" name="OpenAccess" subtype="OpenAccess" version="07.02"/>
+</xmi:XMI>

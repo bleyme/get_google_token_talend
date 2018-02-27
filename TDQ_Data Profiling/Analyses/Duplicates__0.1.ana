@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.analysis:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dataquality.analysis="http://dataquality.analysis" xmi:id="_y0XhoC87EeerPvncI_6M9w" name="Duplicates " creationDate="2017-05-02T15:32:31.797+0200">
+  <taggedValue xmi:id="_y0XhoS87EeerPvncI_6M9w" tag="Status" value="development"/>
+  <taggedValue xmi:id="_y0Xhoi87EeerPvncI_6M9w" tag="Author" value="user@talend.com"/>
+  <taggedValue xmi:id="_y0Xhoy87EeerPvncI_6M9w" tag="Purpose"/>
+  <taggedValue xmi:id="_y0XhpC87EeerPvncI_6M9w" tag="Description"/>
+  <taggedValue xmi:id="_y0XhpS87EeerPvncI_6M9w" tag="Version" value="0.1"/>
+  <context xmi:id="_y0Xhpi87EeerPvncI_6M9w"/>
+  <results xmi:id="_y0Xhpy87EeerPvncI_6M9w">
+    <resultMetadata xmi:id="_y0XhqC87EeerPvncI_6M9w"/>
+  </results>
+  <parameters xmi:id="_y0XhqS87EeerPvncI_6M9w" analysisType="Columns Comparison Analysis"/>
+</dataquality.analysis:Analysis>

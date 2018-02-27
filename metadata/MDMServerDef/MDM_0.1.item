@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmmetadata:MDMServerDef xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmmetadata="http://www.talend.org/metadata/mdmserverdef" xmi:id="_5Q6UAC9LEeeuU9TiV-Rs4Q" name="MDM" label="" passwd="gYS5jltDdzLZ1zsjmd9GeQ==" url="http://localhost:8180/talendmdm/services/soap" user="administrateur" algorithm="CommonV2"/>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSTransformerV2E xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_2mtygK-ZEeW8ANFZWlMVtw" name="CallJob_update_apps" description="Process that calls the Talend Job: update_apps">
+  <processSteps xmi:id="_2mtyga-ZEeW8ANFZWlMVtw" pluginJNDI="amalto/local/transformer/plugin/callJob" description="Invoke the job" parameters="&lt;configuration>&#xA;&lt;url>ltj://update_apps/0.6&lt;/url>&#xA;&lt;/configuration>&#xA;">
+    <inputMappings xmi:id="_2mtygq-ZEeW8ANFZWlMVtw" pipelineVariable="_DEFAULT_" pluginVariable="text"/>
+    <outputMappings xmi:id="_2mtyg6-ZEeW8ANFZWlMVtw" pipelineVariable="item_xml" pluginVariable="result"/>
+  </processSteps>
+</mdmserverobject:WSTransformerV2E>
