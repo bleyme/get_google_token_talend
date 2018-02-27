@@ -1,7 +1,5 @@
 # Getting Google access token with Talend
-<h1 align="center">
-   <img src="https://lh3.googleusercontent.com/KGvHMubyVHItwohyM5seRCuRIkPBUyxo9l7Vqjaql2AeQbdSROwHvUw63K8ui8LSXQKtc64FrppoR45XukQE8GLm1p1BGG1FRqy4vxhAPsA-Tt4JcBNIGWRmfRy9c0aYHq5j7Nq6wdf1qS5gaDNd8uRfHrjm062vot2jiqLdRcjP__0Za1OhpAOwdVOHbCv9ja2Iw-7kMomKTlnJ_oCdNNTW0PIT8Nv9TDZ0sa35xy4iJnt_NkkW2rkG-xlGqQxVGWlL8XsCZDxIpsRYBgJUv4u7zeuSzJVjwdyycf3n4CThdwNfk4_wcuc1sBg_MVVrWsrPeLazLRlBsYQwN1LuVLaRMQqMGOy0l1rHHqHjVxc8u81IQALwLm0kJiIlzC6Jv1N9QJcf34z7o9CFUqs5Tsmxz-XH-NgzwN70FvzeBKWqSwD49Mu_uM7dA-KccAmp-L2oRYjXeyuYiGQuPm3s2P6TzDV7omESyDj1khcV7ZbRpfUwHQDhaLqsodbUkyjydwLAsOxFjl9mq2VrTKHgjSaIGodd2RoHrohx1NSoJFcRit7forG8Hblk1KJhtXhSWL-vbet8ODX7PPYnmyVz5cEPVJrRk5kjWFJ4IjSQ=w595-h158-no" />
-</h1>
+
 <p align="center">
 This repository contains the Talend job GetGoogleToken. The goal is to make sure we always have an access token ready to be used to call any Google endpoints in Talend. Can be re used in other jobs.
 </p>
