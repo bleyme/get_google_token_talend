@@ -1,8 +1,5 @@
 # Getting Google access token with Talend
-
-<p align="center">
 This repository contains the Talend job GetGoogleToken. The goal is to make sure we always have an access token ready to be used to call any Google endpoints in Talend. Can be re used in other jobs.
-</p>
 
 # Table of contents
   * [Requirements](#requirements)
