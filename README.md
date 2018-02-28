@@ -113,10 +113,10 @@ There is no manual operations required anymore. Every time you execute the job, 
 Let's see two examples below to see how to use in other jobs.
 
 ## Example 1 getting Gmail metadata
-Available in the following repo: 
+Available in the following repo: [get_gmail_metadata_talend](https://github.com/bleyme/get_gmail_metadata_talend)
 
 ## Example 2 getting Calendar resources 
-Available in the following repo: 
+Available in the following repo: [get_calendar_resources_talend](https://github.com/bleyme/get_calendar_resources_talend)
 
 # Tips and tricks
 
